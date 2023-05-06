@@ -1,15 +1,8 @@
-<!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
-
-
-
-
-<!-- GETTING STARTED -->
+Case técnico realizado pela Petlove para o estágio em Engenharia de Dados.
 
 ## Como começar
-
-
 
 ### Pré-requisitos
 
@@ -30,36 +23,28 @@ Instalar o Java de acordo com seu sistema operacional
 
 ### Instação
 
-
 - Clone the repo
    ```sh
    git clone https://github.com/hitomi1/case-petlove.git
    ```
-
-
-<!-- USAGE EXAMPLES -->
 
 ## Uso
 
 Apenas execute todas as células do notebook, isso será o suficiente para realizar todas as operações pertinentes a limpeza dos dados.
 
 
-<!-- ROADMAP -->
-
-## Explicação dos arquivos presentes
+## Arquivos
 ```
 root
  |-- data.csv (arquivos csv com dados já tratados)
  |-- notebook.ipynb 
  |-- README.md
+ |-- data-viz.pbix
+ |-- data-viz.pdf
  |-- initial_data
      |--data-test-analytics.csv (dados crus)
 ```
 
-
-
-
-<!-- CONTACT -->
 
 ## Contato
 
