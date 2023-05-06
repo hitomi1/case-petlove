@@ -32,6 +32,8 @@ Instalar o Java de acordo com seu sistema operacional
 
 Apenas execute todas as células do notebook, isso será o suficiente para realizar todas as operações pertinentes a limpeza dos dados.
 
+Abrir o arquivo "data-viz.pbix" para interagir com os gráficos gerados e observar com clareza as correções apresentadas.
+
 
 ## Arquivos
 ```
